@@ -1,4 +1,4 @@
 default: createpdf
 
 createpdf:
-	pdflatex cv_4.tex
+	pdflatex resume_elias.tex
